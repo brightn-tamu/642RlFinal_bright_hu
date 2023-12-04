@@ -6,6 +6,9 @@ This project is based on four repositories, therefore only the newly created and
 
 ## Setup Instructions
 
+### jobfile.sh
+- Script to run Pythia and ChampSim
+
 ### gem5 Folder
 - Clone the official gem5 repository: [gem5 repository](https://github.com/gem5/gem5).
 - After cloning, copy all the files from this repository's `gem5` folder into the `gem5/src/cpu/o3/probe` directory in your local gem5 repository.
